@@ -1,0 +1,14 @@
+body { font-family: 'Roboto', sans-serif; background: #f4f7fa; }
+.signup-form { width: 420px; max-width: 95%; margin: 40px auto; }
+.signup-form form { background: #fff; padding: 30px; border-radius: 3px; box-shadow: 0 2px 2px rgba(0,0,0,0.3); }
+.signup-form h2 { margin: 0 0 10px; }
+.hint-text { color: #999; margin-bottom: 20px; }
+.form-control, .btn { min-height: 38px; border-radius: 2px; }
+.table-wrapper { background: #fff; padding: 20px 25px; margin: 30px 0; border-radius: 3px; box-shadow: 0 1px 1px rgba(0,0,0,0.05); }
+.table-title { background: #435d7d; color: #fff; padding: 16px 30px; margin: -20px -25px 10px; border-radius: 3px 3px 0 0; }
+.table-title h2 { margin: 5px 0 0; font-size: 24px; }
+.table-title .btn { color: #fff; border: none; }
+table.table td a { margin: 0 5px; text-decoration: none; }
+table.table td a.view { color: #03A9F4; }
+table.table td a.edit { color: #FFC107; }
+table.table td a.delete { color: #E34724; }
